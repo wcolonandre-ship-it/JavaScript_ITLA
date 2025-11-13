@@ -16,7 +16,7 @@ Escribir un programa que pregunte al usuario si quiere una pizza vegetariana o n
 //En caso de que el tipo de pizza y el ingrediente no coincida, o que no sea un ingrediente válido, debe retornar: "Error"
 export const hacer_pedido_pizza = (tipo_pizza, ingrediente_extra) => {
     let resumen = ''
-
+// codigo aqui
     console.log("Bienvenido a la pizzería Bella Napoli")
     console.log("Qué tipo de pizza desea: 'vegetariana' o 'no vegetariana'")
 
